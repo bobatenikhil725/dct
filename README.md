@@ -25,3 +25,8 @@ Total number of bits after encoding: 320099bits\
 Compression Ratio:(2097152)/(320099)=6.552\
 RMSE : 31.545\
 PSNR: 36.214db
+
+# Changes to make
+Change the path for given input image at line no. 193 in code.\
+Quantization value can also be changed by varying Q at line no.
+
