@@ -191,7 +191,7 @@ def huffman_code_tree(node, left=True, binString=''):
     return d
 
 #Reading image and converting to greyscale
-img = cv2.imread('C:/Users/bobat/baboon.png')
+img = cv2.imread('C:/Users/bobat/lenna_grey.jpg')
 
 gray_img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 gray_img=np.float32(gray_img)
