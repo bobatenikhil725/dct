@@ -28,5 +28,5 @@ PSNR: 36.214db
 
 # Changes to make
 Change the path for given input image at line no. 193 in code.\
-Quantization value can also be changed by varying Q at line no.
+Quantization value can also be changed by varying Q at line no.199
 
